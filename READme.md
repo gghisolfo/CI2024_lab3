@@ -79,6 +79,8 @@ To solve the n-puzzle problem (a simplified sliding puzzle) using the A* search 
 | 5x5       | 162   | 6.4      |
 | 6x6       | x    | x      |
 
+I couldn't find a way to improve performance for grid sizes larger than 5x5.
+
 
 
 ## Documentation
